@@ -1,0 +1,8 @@
+digraph {
+	graph [ranksep=0.25, fontname=Arial, nodesep=0.125];
+	node [fontname=Arial, style=filled, height=0, width=0, shape=box, fontcolor=white];
+	edge [fontname=Arial];
+	1 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="dump_pool\n100.00%\n(100.00%)\n8×"];
+	2 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="ngx_pool_t_test\n100.00%\n(100.00%)\n1×"];
+	2 -> 1 [color="#ff0000", label="100.00%\n8×", arrowsize="1.00", fontsize="10.00", fontcolor="#ff0000", labeldistance="4.00", penwidth="4.00"];
+}
