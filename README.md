@@ -4,11 +4,11 @@ Welcome to my project!
 
 The project is based on the blog http://blog.csdn.net/livelylittlefish
 
-The project contains some simple test cases.The functions of these test cases:
+The project contains some simple test cases.The functions of these test cases for me:
 
-1.Help me for better understanding the memory allocation strage of nginx.
+1.Help me understand the memory allocation strage of nginx.
 
-2.Help me for better understanding nginx basic data structure.
+2.Help me understand the basic data structure of nginx.
 
 
 
