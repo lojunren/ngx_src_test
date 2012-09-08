@@ -1,8 +1,7 @@
 CXX = gcc
 CXXFLAGS += -g -pg -Wall -Wextra
 
-NGX_ROOT = /home/lojunren/Src/Nginx
-NGX_DUMP_ROOT = /home/lojunren/Src/NginxStudy
+NGX_ROOT = /home/lojunren/src/nginx
 
 TARGETS = ngx_array_t_test
 TARGETS_C_FILE = $(TARGETS).c
