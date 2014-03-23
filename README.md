@@ -6,9 +6,10 @@ The project is based on the blog http://blog.csdn.net/livelylittlefish
 
 The project contains some simple test cases.The functions of these test cases for me:
 
-1.Help me understand the memory allocation strage of nginx.
+1.Help me understand the basic data structure of nginx.
 
-2.Help me understand the basic data structure of nginx.
+2.Help me understand the memory management strategy of nginx.
+
 
 
 
