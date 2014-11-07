@@ -43,7 +43,7 @@ void ngx_list_t_test()
 	printf("----------------------------------\n");
 	dump_pool(pool);
 
-    ngx_destroy_pool(pool);
+    	ngx_destroy_pool(pool);
 }
 
 int main()
