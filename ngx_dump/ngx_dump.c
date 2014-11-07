@@ -127,7 +127,7 @@ void dump_queue_from_tail(ngx_queue_t *que)
 
 void dump_hash_array(ngx_array_t* array)
 {
-	char prefix[] = "          ";
+    char prefix[] = "          ";
 
     if (array == NULL)
         return;
