@@ -76,8 +76,6 @@
  	}
 
  	dump_pool(pool);
-
-
  	ngx_destroy_pool(pool);
  }
 
