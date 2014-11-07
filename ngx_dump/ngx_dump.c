@@ -152,7 +152,7 @@ void dump_hash_array(ngx_array_t* array)
 
 void dump_hash(ngx_hash_t* hash, ngx_array_t* array)
 {
-	int loop = 0;
+    int loop = 0;
     char prefix[] = "          ";
     u_short test[MAX_NUM] = {0};
     ngx_uint_t key;
