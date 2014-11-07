@@ -70,9 +70,7 @@ void ngx_queue_t_test()
 	printf("the pool at the end: \n");
 	printf("----------------------------------------\n");
 	dump_pool(pool);
-
 	ngx_destroy_pool(pool);
-
 }
 
 int main()
